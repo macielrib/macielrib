@@ -54,5 +54,3 @@ Estou sempre em busca de oportunidades para colaborar em projetos inovadores e a
 </p>
 
 ---
-
-<p align="center">Feito com ❤️ por Maciel Ribeiro</p>
