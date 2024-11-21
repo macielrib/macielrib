@@ -41,6 +41,7 @@ Me chamo *Maciel Ribeiro*, desenvolvedor especializado em front-end e diretor da
 
 - **[Spacefy](https://spacefy.com.br):** Empresa focada na criação de websites e sistemas personalizados, oferecendo soluções digitais para empresas de todos os tamanhos.
 - **[Embermax](https://embermax.vercel.app):** Startup de vendas de contas para jogos (Valorant, Counter-Strike 2) entre outros jogos no mercado.
+- **[Kaue Software Developer](https://kaueds.verce.app):** Meu portfólio de projetos com intuito de demonstrar minhas capacidades e projetos feitos.
 
 ---
 
